@@ -1,0 +1,48 @@
+{
+    "name": "Clarity Insights",
+    "description": "Clarity Insights is a big data solutions and data science consulting firm, the largest 100% onshore big data and data science consultancy in the United States.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28221-www-clarityinsights-com.jpg",
+    "tags": [
+        "agencies",
+        "analysis",
+        "api not found",
+        "data",
+        "data science",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/clarity-insights\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Clarity Insights",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28221-www-clarityinsights-com.jpg",
+            "humanURL": "https:\/\/www.clarityinsights.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/clarity-insights-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/clarity-insights"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ClarityInsights"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.clarityinsights.com"
+        }
+    ]
+}
